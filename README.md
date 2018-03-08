@@ -7,7 +7,7 @@ Free Templates for the Bulma CSS Framework
   
 ## Templates
 
-The templates are located in the ```/templates``` directory, and you can preview them on the [demo website](http://dansup.github.io/bulma-templates)
+The templates are located in the ```/templates``` directory, and you can preview them on the [demo website](techqc.github.io/sizhtml/index.html)
 
 ## Roadmap
 
